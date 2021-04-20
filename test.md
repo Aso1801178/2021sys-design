@@ -1,5 +1,5 @@
 '''uml
-@startum1¥l
+@startuml
 Alice -> Bob: Request
 Bob --> Alice: Response
 @enduml
